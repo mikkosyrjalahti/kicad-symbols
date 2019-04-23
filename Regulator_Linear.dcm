@@ -4878,6 +4878,12 @@ K 500mA ultra-low-noise LDO linear voltage regulator adjustable positive
 F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC5219-500mA-Peak-Output-LDO-Regulator-DS20006021A.pdf
 $ENDCMP
 #
+$CMP MIC5239-3.3YMM
+D 500mA 30V in 23uA Iqq LDO, MSOP8
+K 500mA 30V in 23uA Iqq LDO, MSOP8
+F http://ww1.microchip.com/downloads/en/devicedoc/mic5239.pdf
+$ENDCMP
+#
 $CMP MIC5353-1.8YMT
 D High-performance, single-output,  ultra-low  LDO regulator
 K Single LDO
@@ -5849,21 +5855,25 @@ D 300mA Capacitor-Free Low Dropout Voltage Regulator, Fixed Output 2.5V, SOT-23-
 K 300mA LDO Regulator Fixed Positive Capacitor-Free
 F http://www.ti.com/lit/ds/symlink/tlv733p.pdf
 $ENDCMP
+#
 $CMP TLV733285PDBV
 D 300mA Capacitor-Free Low Dropout Voltage Regulator, Fixed Output 2.85V, SOT-23-5
 K 300mA LDO Regulator Fixed Positive Capacitor-Free
 F http://www.ti.com/lit/ds/symlink/tlv733p.pdf
 $ENDCMP
+#
 $CMP TLV73328PDBV
 D 300mA Capacitor-Free Low Dropout Voltage Regulator, Fixed Output 2.8V, SOT-23-5
 K 300mA LDO Regulator Fixed Positive Capacitor-Free
 F http://www.ti.com/lit/ds/symlink/tlv733p.pdf
 $ENDCMP
+#
 $CMP TLV73330PDBV
 D 300mA Capacitor-Free Low Dropout Voltage Regulator, Fixed Output 3.0V, SOT-23-5
 K 300mA LDO Regulator Fixed Positive Capacitor-Free
 F http://www.ti.com/lit/ds/symlink/tlv733p.pdf
 $ENDCMP
+#
 $CMP TLV73333PDBV
 D 300mA Capacitor-Free Low Dropout Voltage Regulator, Fixed Output 3.3V, SOT-23-5
 K 300mA LDO Regulator Fixed Positive Capacitor-Free
